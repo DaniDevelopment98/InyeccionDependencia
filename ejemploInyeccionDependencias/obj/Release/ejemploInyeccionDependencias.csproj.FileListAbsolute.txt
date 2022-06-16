@@ -1,0 +1,2 @@
+C:\Users\Daniel\source\repos\ejemploInyeccionDependencias\obj\Release\ejemploInyeccionDependencias.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\ejemploInyeccionDependencias\obj\Release\ejemploInyeccionDependencias.csproj.CoreCompileInputs.cache

@@ -24,6 +24,7 @@ namespace ejemploInyeccionDependencias
             {
                 ServicioComunicacion.EnviarMensaje(clientes, mensaje);
             }
+            Console.ReadLine();
         }
     }
 }
